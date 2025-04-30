@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76dd0155-f267-489f-b381-339776bc4b7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/gs-serving-web-content-master (1)/gs-serving-web-content-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gs-serving-web-content-master (1)/gs-serving-web-content-master/CONTRIBUTING.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gs-serving-web-content-master (1)/gs-serving-web-content-master/LICENSE.code.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gs-serving-web-content-master (1)/gs-serving-web-content-master/LICENSE.writing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gs-serving-web-content-master (1)/gs-serving-web-content-master/README.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gs-serving-web-content-master (1)/gs-serving-web-content-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gs-serving-web-content-master (1)/gs-serving-web-content-master/src/main/java/hello/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gs-serving-web-content-master (1)/gs-serving-web-content-master/src/main/java/hello/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gs-serving-web-content-master (1)/gs-serving-web-content-master/src/main/resources/templates/greeting.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2wRl1zn2nL8c88VwgS2fGZbW3xM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76dd0155-f267-489f-b381-339776bc4b7d" name="Changes" comment="" />
+      <created>1746012062950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746012062950</updated>
+    </task>
+    <servers />
+  </component>
+</project>
