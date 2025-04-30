@@ -57,5 +57,5 @@ README.html
 application.properties
 
 # Carpetas a ignorar 
-sandbox/
+**/sandbox/
 
